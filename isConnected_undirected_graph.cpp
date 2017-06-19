@@ -2,6 +2,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+//This is wrong. Should use BFS/DFS. Will do later
 
 class Graph{
     
